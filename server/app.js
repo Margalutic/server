@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 // Подключение переменных окружения
-const { PORT=8000, ALLOWED_ORIGIN='http://localhost:3000' } = process.env;
+const { PORT=8000, ALLOWED_ORIGIN='https://margalutic.github.io/server/' } = process.env;
 
 // Подключение модулей и библиотек
 const keywordUrls = require("./urls.js");
