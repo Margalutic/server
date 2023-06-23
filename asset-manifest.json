@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Margalutic.github.io/server/static/css/main.8fc9bde0.css",
-    "main.js": "/Margalutic.github.io/server/static/js/main.9b62cfca.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/Margalutic.github.io/server/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/Margalutic.github.io/server/index.html",
-    "main.8fc9bde0.css.map": "/Margalutic.github.io/server/static/css/main.8fc9bde0.css.map",
-    "main.9b62cfca.js.map": "/Margalutic.github.io/server/static/js/main.9b62cfca.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/Margalutic.github.io/server/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/server/static/css/main.8fc9bde0.css",
+    "main.js": "/server/static/js/main.77bf162d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/server/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/server/index.html",
+    "main.8fc9bde0.css.map": "/server/static/css/main.8fc9bde0.css.map",
+    "main.77bf162d.js.map": "/server/static/js/main.77bf162d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/server/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fc9bde0.css",
-    "static/js/main.9b62cfca.js"
+    "static/js/main.77bf162d.js"
   ]
 }
